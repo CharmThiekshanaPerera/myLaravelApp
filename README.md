@@ -1,3 +1,51 @@
+# Project Name
+
+Brief description of your project.
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Features](#features)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Setting up Authentication](#setting-up-authentication)
+- [Running the Application](#running-the-application)
+- [Additional Information](#additional-information)
+- [Screenshots](#screenshots)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgements](#acknowledgements)
+
+## Introduction
+
+Provide a brief introduction to your project.
+
+## Features
+
+List the key features of your project.
+
+- Feature 1
+- Feature 2
+- ...
+
+## Prerequisites
+
+- XAMPP installed
+- Composer installed
+- Node.js and NPM installed (for Laravel Mix)
+
+## Installation
+
+1. **Clone the repository**
+
+   ```bash
+   git clone <repository_url>
+   cd project-directory
+
+   or
+
+create new project
+
 Start XAMPP:
 Open XAMPP Control Panel and start the Apache and MySQL modules.
 
